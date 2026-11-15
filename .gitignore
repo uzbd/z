@@ -1,0 +1,5 @@
+node_modules
+dist
+public/words.txt
+public/common-words.txt
+.DS_Store
