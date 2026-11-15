@@ -1,4 +1,4 @@
-name: Build and deploy Smart Text Decoder
+name: Build and deploy Smart Text Dekoder
 
 on:
   push:
